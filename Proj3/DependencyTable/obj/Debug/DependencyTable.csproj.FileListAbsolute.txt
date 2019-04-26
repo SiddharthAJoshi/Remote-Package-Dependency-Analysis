@@ -1,0 +1,6 @@
+D:\ProjectFinal\Proj3\DependencyTable\bin\Debug\DependencyTable.dll.config
+D:\ProjectFinal\Proj3\DependencyTable\bin\Debug\DependencyTable.dll
+D:\ProjectFinal\Proj3\DependencyTable\bin\Debug\DependencyTable.pdb
+D:\ProjectFinal\Proj3\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\DependencyTable\obj\Debug\DependencyTable.dll
+D:\ProjectFinal\Proj3\DependencyTable\obj\Debug\DependencyTable.pdb

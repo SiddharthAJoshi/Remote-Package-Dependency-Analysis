@@ -1,0 +1,5 @@
+D:\ProjectFinal\Proj3\FileMgr\bin\Debug\Navigate.dll
+D:\ProjectFinal\Proj3\FileMgr\bin\Debug\Navigate.pdb
+D:\ProjectFinal\Proj3\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\FileMgr\obj\Debug\Navigate.dll
+D:\ProjectFinal\Proj3\FileMgr\obj\Debug\Navigate.pdb

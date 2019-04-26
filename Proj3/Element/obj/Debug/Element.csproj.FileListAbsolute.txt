@@ -1,0 +1,6 @@
+D:\ProjectFinal\Proj3\Element\bin\Debug\Element.dll
+D:\ProjectFinal\Proj3\Element\bin\Debug\Element.pdb
+D:\ProjectFinal\Proj3\Element\obj\Debug\Element.csprojAssemblyReference.cache
+D:\ProjectFinal\Proj3\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\Element\obj\Debug\Element.dll
+D:\ProjectFinal\Proj3\Element\obj\Debug\Element.pdb

@@ -1,0 +1,6 @@
+D:\ProjectFinal\Proj3\TypeTable\bin\Debug\TypeTable.dll.config
+D:\ProjectFinal\Proj3\TypeTable\bin\Debug\TypeTable.dll
+D:\ProjectFinal\Proj3\TypeTable\bin\Debug\TypeTable.pdb
+D:\ProjectFinal\Proj3\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+D:\ProjectFinal\Proj3\TypeTable\obj\Debug\TypeTable.dll
+D:\ProjectFinal\Proj3\TypeTable\obj\Debug\TypeTable.pdb

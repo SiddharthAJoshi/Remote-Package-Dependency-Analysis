@@ -1,0 +1,9 @@
+
+  component 0
+    Parser.cs 
+  component 1
+    SemiExpression.cs 
+  component 2
+    Toker.cs 
+  component 3
+    TypeTable.cs 

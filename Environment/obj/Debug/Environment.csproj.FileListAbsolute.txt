@@ -1,6 +1,0 @@
-D:\ProjectFinal\NavigatorClientServer\Environment\bin\Debug\Environment.dll
-D:\ProjectFinal\NavigatorClientServer\Environment\bin\Debug\Environment.pdb
-D:\ProjectFinal\NavigatorClientServer\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
-D:\ProjectFinal\NavigatorClientServer\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
-D:\ProjectFinal\NavigatorClientServer\Environment\obj\Debug\Environment.dll
-D:\ProjectFinal\NavigatorClientServer\Environment\obj\Debug\Environment.pdb
